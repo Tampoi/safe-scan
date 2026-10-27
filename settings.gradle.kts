@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "safe-scan"
 include(":app")
+
